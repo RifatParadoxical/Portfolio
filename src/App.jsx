@@ -265,7 +265,7 @@ export default function Portfolio() {
                 <div className="flex items-center gap-3"><Github size={18}/> <a href="https://github.com/RifatParadoxical" className="underline">github.com/RifatParadoxical</a></div>
                 <div className="flex items-center gap-3"><Linkedin size={18}/> <a href="https://linkedin.com/in/md-rifat-dev" className="underline">linkedin.com/in/md-rifat-dev</a></div>
                 </div>
-              
+              </div>
           </div>
         </div>
       </section>
