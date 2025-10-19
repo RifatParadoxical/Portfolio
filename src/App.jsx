@@ -65,7 +65,7 @@ export default function Portfolio() {
   {/* Left: Text (on mobile this appears above the image due to flex-col-reverse) */}
   <div className="flex-1 mt-4 lg:mt-0 text-center lg:text-left">
     <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-      Rifat Paradoxical
+      Md Rifat 
     </h1>
 
     <p className="mt-3 text-sm sm:text-base md:text-lg text-slate-300 max-w-xl mx-auto lg:mx-0">
