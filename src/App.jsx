@@ -173,7 +173,7 @@ export default function Portfolio() {
 
           <div>
             <h3 className="text-2xl font-bold mb-3">Certificates & Activities</h3>
-            <div className="text-slate-300 text-sm">Debating club (1st place), Campus Ambassador (2 terms), Social Work Volunteer — add your certificate links to each project card for trust.</div>
+            <div className="text-slate-300 text-sm">Debating club (1st place), Campus Ambassador (2 terms), Social Work Volunteer .</div>
             <div className="mt-4 grid grid-cols-2 gap-3">
               <div className="p-3 bg-slate-900 rounded-xl border border-slate-800">Debating </div>
               <div className="p-3 bg-slate-900 rounded-xl border border-slate-800">Campus Ambassador</div>
@@ -265,9 +265,7 @@ export default function Portfolio() {
                 <div className="flex items-center gap-3"><Github size={18}/> <a href="https://github.com/RifatParadoxical" className="underline">github.com/RifatParadoxical</a></div>
                 <div className="flex items-center gap-3"><Linkedin size={18}/> <a href="https://linkedin.com/in/md-rifat-dev" className="underline">linkedin.com/in/md-rifat-dev</a></div>
                 </div>
-
-              <div className="mt-6 text-xs text-slate-500">Pro tip: When requesting a quote, include: target URL, fields needed, preferred format (CSV/JSON), and deadline.</div>
-            </div>
+              
           </div>
         </div>
       </section>
