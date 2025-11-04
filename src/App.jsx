@@ -178,8 +178,8 @@ export default function Portfolio() {
           </div>
 
           <div>
-            <motion.h3 whileHover={{x:12}} className="text-2xl font-bold mb-3">Certificates & Activities</motion.h3>
-            <motion.div whileHover={{x:12}} className="text-slate-300 text-sm">Debating club (1st place), Campus Ambassador (2 terms), Social Work Volunteer — add your certificate links to each project card for trust.</motion.div>
+            <h3 className="text-2xl font-bold mb-3">Certificates & Activities</h3>
+            <div className="text-slate-300 text-sm">Debating club (1st place), Campus Ambassador (2 terms), Social Work Volunteer — add your certificate links to each project card for trust.</div>
             <div className="mt-4 grid grid-cols-2 gap-3">
               <motion.div whileHover={{x:7}} className="p-3 bg-slate-900 rounded-xl border border-slate-800">Debating </motion.div>
               <motion.div whileHover={{x:7}} className="p-3 bg-slate-900 rounded-xl border border-slate-800">Campus Ambassador</motion.div>
@@ -271,6 +271,8 @@ export default function Portfolio() {
                 <motion.div whileHover={{x:9}} className="flex items-center gap-3"><Github size={18}/> <a href="https://github.com/RifatParadoxical" className="underline">github.com/RifatParadoxical</a></motion.div>
                 <motion.div whileHover={{x:9}} className="flex items-center gap-3"><Linkedin size={18}/> <a href="https://linkedin.com/in/md-rifat-dev" className="underline">linkedin.com/in/md-rifat-dev</a></motion.div>
                 </div>
+
+              <div className="mt-6 text-xs text-slate-500">Pro tip: When requesting a quote, include: target URL, fields needed, preferred format (CSV/JSON), and deadline.</div>
             </div>
           </div>
         </div>
