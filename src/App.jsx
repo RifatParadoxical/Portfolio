@@ -99,7 +99,7 @@ export default function Portfolio() {
     </motion.div>
 
     <div className="mt-4 flex flex-col sm:flex-row flex-wrap justify-center lg:justify-start gap-2 text-xs text-slate-400">
-      <div className="flex items-center gap-2">📞 <a href="tel+8801944553174" className="font-medium">+880-194-455-3174</a></div>
+      <div className="flex items-center gap-2">📞 <a href="tel:+8801944553174" className="font-medium">+880-194-455-3174</a></div>
       <div className="flex items-center gap-2">🐙 <a className="underline" href="https://github.com/RifatParadoxical">github.com/RifatParadoxical</a></div>
       <div className="flex items-center gap-2">🔗 <a className="underline" href="https://linkedin.com/in/md-rifat-dev">linkedin.com/in/md-rifat-dev</a></div>
     </div>
